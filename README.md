@@ -1,5 +1,7 @@
 # NeuroSync Player
 
+## 18/07/2025 Added support for POST messages and OSC Send messages. Instructions will come.
+
 ## 29/03/2025 Update to model.pth and model.py in api's
 
 - Increased accuracy (timing and overall face shows more natural movement overall, brows, squint, cheeks + mouth shapes)
